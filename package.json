@@ -1,0 +1,26 @@
+{
+  "name": "clima-app",
+  "version": "0.0.1",
+  "description": "Clima App with Node -Learning with Fernando Herra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngeScobedo/clima-app.git"
+  },
+  "keywords": [
+    "Clima",
+    "App",
+    "Node.js",
+    "Node",
+    "Javascript"
+  ],
+  "author": "Alan Escobedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngeScobedo/clima-app/issues"
+  },
+  "homepage": "https://github.com/IngeScobedo/clima-app#readme"
+}
